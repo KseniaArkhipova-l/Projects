@@ -5,27 +5,27 @@
 
 
 
-Python and Data Analysis Basics / Основы Python и анализа данных
+**Python and Data Analysis Basics / Основы Python и анализа данных**
 
-Data Preprocessing / Предобработка данных
+**Data Preprocessing / Предобработка данных**
 
-Exploratory Data Analysis / Исследовательский анализ данных
+**Exploratory Data Analysis / Исследовательский анализ данных**
 
-Statistical Data Analysis / Статистический анализ данных
+**Statistical Data Analysis / Статистический анализ данных**
 
-Data Collection and Storage / Сбор и хранение данных
+**Data Collection and Storage / Сбор и хранение данных**
 
-Business Analytics / Анализ бизнес-показателей
+**Business Analytics / Анализ бизнес-показателей**
 
-Data-Informed Decision Making in Business / Принятие решений в бизнесе на основе данных
+**Data-Informed Decision Making in Business / Принятие решений в бизнесе на основе данных**
 
-How to Tell a Story Using Data / Как рассказать историю с помощью данных
+**How to Tell a Story Using Data / Как рассказать историю с помощью данных**
 
-Automation / Автоматизация
+**Automation / Автоматизация**
 
-Forecasts and Predictions / Прогнозы и предсказания
+**Forecasts and Predictions / Прогнозы и предсказания**
 
-Independent Projects / Самостоятельные проекты
+**Independent Projects / Самостоятельные проекты**
 
-Graduation Project / Выпускной проект
+**Graduation Project / Выпускной проект**
 
