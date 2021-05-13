@@ -2,8 +2,10 @@
 
 ### Certificate: https://drive.google.com/file/d/1RajIIWKD4itibGbFUFWrRjRM0592weGH/view?usp=sharing
 
-
-
+В данном репозитории представлены проекты, выполненные вовремя прохождения курса от Яндекс.Практикум "Аналитик данных". 
+Использовались следюущие инструменты:
+Python: библиотека Pandas, NumPy, Matplotlib, Seaborn.
+HTML, PostgreSQL.
 
 **Python and Data Analysis Basics / Основы Python и анализа данных**
 
