@@ -12,8 +12,9 @@
 *  PostgreSQL
 
 ---
+Темы курса и описание проектов:
 
-**Python and Data Analysis Basics / Основы Python и анализа данных**
+**Тема: Основы Python и анализа данных**
 
 **Data Preprocessing / Предобработка данных**
 
