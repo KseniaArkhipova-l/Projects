@@ -5,4 +5,16 @@
 
 
 
-*The electronic version of this certificate does not constitute an official document.1.Ksenia Arkhipova has successfully completed the Data Analyst professional training course as offered by the Practicum by Yandex (240 hours).Content covered in the course2.3.8.4.9.5.10.6.11.7.12.20 hours20 hours20 hours20 hours20 hours20 hours20 hours20 hours20 hours20 hours20 hours20 hoursPassPassPassPassPassPassPassPassPassPassPassPassPython and Data Analysis BasicsData PreprocessingExploratory Data AnalysisHow to Tell a Story Using DataStatistical Data AnalysisAutomationData Collection and StorageForecasts and PredictionsBusiness AnalyticsIndependent ProjectsData-Informed Decision Making in BusinessGraduation Project
+Topic 1. Python and Data Analysis Basics
+Data Preprocessing
+Exploratory Data Analysis
+Statistical Data Analysis
+Data Collection and Storage
+Business Analytics
+Data-Informed Decision Making in Business
+How to Tell a Story Using Data
+Automation
+Forecasts and Predictions
+Independent Projects
+Graduation Project
+
