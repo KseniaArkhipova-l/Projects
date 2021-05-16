@@ -14,7 +14,7 @@
 ---
 Описание проектов:
 
-**[Оценка надёжности заёмщиков] (https://github.com/KseniaArkhipova-l/YandexPraktikum_projects/tree/main/Borrower%20Reliability%20Research)**
+[Оценка надёжности заёмщиков] (https://github.com/KseniaArkhipova-l/YandexPraktikum_projects/tree/main/Borrower%20Reliability%20Research)
 
 Анализ данных от кредитного отдела банка для выявления параметров, которые влияют на возврат кредита в срок. 
 
