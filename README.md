@@ -1,4 +1,4 @@
-# Data Analytics Projects (Yandex Praktikum)
+# Data Analytics Projects
 
 ### Certificate: https://drive.google.com/file/d/1RajIIWKD4itibGbFUFWrRjRM0592weGH/view?usp=sharing
 
