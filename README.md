@@ -7,7 +7,7 @@
 В данном репозитории представлены проекты, выполненные во время прохождения курса от Яндекс.Практикум "Аналитик данных". 
 Использовались следующие инструменты:
 
-*  Python: библиотека Pandas, NumPy, Matplotlib, Seaborn, pymystem3
+*  Python: библиотеки Pandas, NumPy, Matplotlib, Seaborn, Pymystem3, Plotly, Sklearn, Scipy
 *  HTML
 *  PostgreSQL
 
