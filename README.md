@@ -7,14 +7,14 @@
 В данном репозитории представлены проекты, выполненные вовремя прохождения курса от Яндекс.Практикум "Аналитик данных". 
 Использовались следующие инструменты:
 
-*  Python: библиотека Pandas, NumPy, Matplotlib, Seaborn
+*  Python: библиотека Pandas, NumPy, Matplotlib, Seaborn, pymystem3
 *  HTML
 *  PostgreSQL
 
 ---
 Описание проектов:
 
-[Оценка надёжности заёмщиков] (https://github.com/KseniaArkhipova-l/YandexPraktikum_projects/tree/main/Borrower%20Reliability%20Research)
+[Оценка надёжности заёмщиков](https://github.com/KseniaArkhipova-l/YandexPraktikum_projects/tree/main/Borrower%20Reliability%20Research)
 
 Анализ данных от кредитного отдела банка для выявления параметров, которые влияют на возврат кредита в срок. 
 
