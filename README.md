@@ -11,6 +11,8 @@
 *  HTML
 *  PostgreSQL
 
+Проекты выполнены в Jupyter Notebook.
+
 ---
 Выполненные проекты:
 
